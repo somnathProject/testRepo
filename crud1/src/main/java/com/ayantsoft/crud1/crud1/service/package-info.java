@@ -5,4 +5,4 @@
  * @author somnath
  *
  */
-package com.ayantsoft.crud1.service;
+package com.ayantsoft.crud1.crud1.service;

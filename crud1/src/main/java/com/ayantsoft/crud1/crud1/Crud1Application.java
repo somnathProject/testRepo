@@ -2,6 +2,7 @@ package com.ayantsoft.crud1.crud1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
 public class Crud1Application {

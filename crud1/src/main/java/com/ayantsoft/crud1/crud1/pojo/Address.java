@@ -1,4 +1,4 @@
-package com.ayantsoft.crud1.pojo;
+package com.ayantsoft.crud1.crud1.pojo;
 // Generated 26 Dec, 2018 7:38:49 AM by Hibernate Tools 4.3.5.Final
 
 import java.util.HashSet;

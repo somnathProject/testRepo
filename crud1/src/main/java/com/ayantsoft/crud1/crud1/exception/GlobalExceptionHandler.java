@@ -1,4 +1,4 @@
-package com.ayantsoft.crud1.exception;
+package com.ayantsoft.crud1.crud1.exception;
 
 
 
